@@ -15,6 +15,12 @@ DRIP Statistical Learning is composed of the following main libraries:
  * Parametric Classification Library
  * Non-parametric Classification Library
  * Clustering Library
+ * Ensemble Learning Library
+ * Multi-linear Sub-space Learning Library
+ * Real-Valued Sequence Learning Library
+ * Real-Valued Learning Library
+ * Sequence Labeling Library
+ * Bayesian Library
 
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
@@ -307,6 +313,96 @@ For Installation, Documentation and Samples, and the associated supporting Numer
 ####Correlation Clustering
 
 ####Kernel Principal Component Analysis (Kernel PCA)
+
+###Ensemble Learning Algorithms
+
+####Ensemble Learning
+ * Overview
+ * Theoretical Underpinnings
+ * Ensemble Aggregator Types
+ * Bayes' Optimal Classifier
+ * Bagging and Boosting
+ * Bayesian Model Averaging (BMA)
+ * Baysian Model Combination (BMC)
+ * Bucket of Models (BOM)
+ * Stacking
+ * Ensemble Averaging vs. Basis Spline Representation
+
+####ANN Ensemble Averaging
+ * Techniques and Results
+
+####Boosting
+ * Philosophy behind Boosting Algorithms
+ * Popular Boosting Algorithms and Drawbacks
+
+####Bootstrap Averaging
+ * Sample Generation
+ * Bagging with 1NN - Theoretical Treatment
+
+###Multi-linear Sub-space Learning Algorithms
+####Tensors and Multi-linear Sub-space Algorithms
+ * Tensors
+ * Multi-linear Sub-space Learning
+ * Multi-linear PCA
+
+###Real-Valued Sequence Learning Algorithms
+####Kalman Filtering
+ * Continuous Time Kalman Filtering
+ * Nonlinear Kalman Filtering
+ * Kalman Smoothing
+
+####Particle Filtering
+
+###Real-Valued Learning Algorithms
+####Regression Analysis
+ * Linear Regression
+ * Assumptions Underlying Basis Linear Regression
+ * Multi-variate Regression Analysis
+ * Multi-variate Predictor/Response Regression
+ * OLS on Basis Spline Representation
+ * OLS on Basis Spline Representation with Roughness Penalty
+ * Linear Regression Estimator Extensions
+ * Bayesian Approach to Regression Analysis
+
+####Component Analysis
+ * Independent Component Analysis (ICA) Specification
+ * Independent Component Analysis (ICA) Formulation
+ * Principal Component Analysis
+ * Principal COmponent Analysis - Constrained Formulation
+ * 2D Principal Component Analysis - Constrained Formulation
+ * 2D Principal Component Analysis - Lagrange Multiplier Based Constrained Formulation
+ * nD Principal Component Analysis - Lagrange Multiplier Based Constrained Formulation
+ * Information Theoretic Analysis of PCA
+ * Empirical PCA Estimation From Data Set
+
+####Component Analysis
+
+###Sequence Label Learning Algorithms
+####Hidden Markov Models
+ * HMM State Transition/Emission Parameter Estimation
+ * HMM Based Inference
+ * Non-Bayesian HMM Model Setup
+ * Bayesian Extension to the HMM Model Setup
+ * HMM in Practical World
+
+####Markov Chain Models
+ * Markov Property
+ * Markov Chains
+ * Classification of the Markov Models
+ * Monte Carlo Markov Chains (MCMC)
+ * MCMC for Multi-dimensional Integrals
+
+####Markov Random and Cnditional Fields
+ * MRF/CRF Axiomatic Properties/Definitions
+ * Clique Factorization
+ * Inference in MRF/CRF
+
+####Maximum Entropy Markov Models
+
+####Probabilistic Grammar and Parsing
+ * Parsing
+ * Parser
+ * Context-Free Grammar (CFG)
 
 
 ##Contact
