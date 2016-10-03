@@ -21,6 +21,7 @@ DRIP Statistical Learning is composed of the following main libraries:
  * Real-Valued Learning Library
  * Sequence Labeling Library
  * Bayesian Library
+ * Linear Algebra Suport Library
 
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
@@ -392,7 +393,7 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Monte Carlo Markov Chains (MCMC)
  * MCMC for Multi-dimensional Integrals
 
-####Markov Random and Cnditional Fields
+####Markov Random and Conditional Fields
  * MRF/CRF Axiomatic Properties/Definitions
  * Clique Factorization
  * Inference in MRF/CRF
@@ -403,6 +404,34 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Parsing
  * Parser
  * Context-Free Grammar (CFG)
+
+###Bayesian Analysis
+####Concepts, Formulation, Usage, and Application
+ * Applicability
+ * Analysis of Bayesian Systems
+ * Bayesian Networks
+ * Hypothesis Testing
+ * Bayesian Updating
+ * Maximum Entropy Techniques
+ * Priors
+ * Predictive Posteriors and Priors
+ * Approximate Bayesian Computation
+ * Measurement and Parametric Calibration
+ * Bayesian Regression Analysis
+ * Extensions to Bayesian Regression Analysis
+ * Spline Proxying of Bayesian Systems
+
+###Linear Algebra Support
+####Optimizer
+ * Constrained Optimization using Lagrangian
+ * Least Squares Optimizer
+ * Multi-variate Distribution
+
+####Linear Systems Analysis and Transformation
+ * Matrix Transforms
+ * System of Linear Equations
+ * Orthogonalization
+ * Gaussian Elimination
 
 
 ##Contact
