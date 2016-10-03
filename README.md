@@ -12,6 +12,9 @@ DRIP Statistical Learning is composed of the following main libraries:
  * Covering Numbers Library
  * Alternate Statistical Learning Library
  * Problem Space and Algorithms Families Library
+ * Parametric Classification Library
+ * Non-parametric Classification Library
+ * Clustering Library
 
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
@@ -208,6 +211,103 @@ For Installation, Documentation and Samples, and the associated supporting Numer
 ####No Free Lunch Theorem
  * Algorithmic Consistency
  * NFT Formal Statements
+
+###Problem Space and Algorthm Families
+####Generative and Discriminative Models
+ * Generative Models
+ * Discriminant Models
+ * Examples of Discriminant Approaches
+ * Differences between Generative and Discriminant Models
+
+####Supervised Learning
+ * Supervised Learning Practice Steps
+ * Challenges with Supervised Learning Practice
+ * Formulation
+
+####Unsupervised Learning
+
+####Machine Learning
+ * Calibration vs. Learning
+
+####Pattern Recognition
+ * Supervised vs. Unsupervised Pattern Recognition
+ * Probabilistic Pattern Recognition
+ * Formulation of Pattern Recognition
+ * Pattern Recognition Practice SKU
+ * Pattern Recognition Applications
+
+###Parametric Classification Algorithms
+####Statistical Classification
+####Linear Discriminant Analysis
+ * Setup and Formulation
+ * Fischer's Linear Discriminant
+ * Quadratic Discriminant Analysis
+
+####Logistic Regression
+ * Formulation
+ * Goodness of Fit
+ * Mathematical Setup
+ * Bayesian Logistic Regression
+ * Logistic Regression Extensions
+ * Model Suitability Tests with Cross Validation
+
+####Multinomial Logistic Regression
+ * Setup and Formulation
+
+###Non-Parametric Classification Algorithms
+####Decision Trees and Decision Lists
+####Variable Bandwidth Kernel Density Estimation
+####k Nearest Neighbors Algorithm
+####Perceptron
+####Support Vector Machines (SVM)
+####Gene Expression Programming (GEP)
+
+###Clustering Algorithms
+####Cluster Analysis
+ * Cluster Models
+ * Connectivity Based Clustering
+ * Centroid Based Clustering
+ * Distribution Based Clustering
+ * Density Based Clustering
+ * Clustering Enhancements
+ * Internal Cluster Evaluation
+ * External Cluster Evaluation
+ * Clustering Axiom
+
+####Mixture Model
+ * Generic Mixture Model Details
+ * Specific Mixture Models
+ * Mixture Model Samples
+ * Identifiability
+ * Expectation Maximization
+ * Alternatives to Expectation Maximization
+ * Mixture Model Extensions
+
+####Deep Learning
+ * Unsupervised Representation Learner
+ * Deep Learning using ANN
+ * Deep Learning Architectures
+ * Challenges with the DNN Approach
+ * Deep Belief Networks (DBN)
+ * Convolutional Neural Networks (CNN)
+ * Deep Learning Evaluation Data Sets
+ * Neurological Basis of Deep Learning
+
+####Hierarchical Clustering
+
+####k-Means Clustering
+ * Mathematical Formulation
+ * The Standard Algorithm
+ * k-Means Initialization Schemes
+ * k-Means Complexity
+ * k-Means Variations
+ * k-Means Applications
+ * Alternate k-Means Formulations
+
+####Correlation Clustering
+
+####Kernel Principal Component Analysis (Kernel PCA)
+
 
 ##Contact
 
