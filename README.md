@@ -376,8 +376,6 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Information Theoretic Analysis of PCA
  * Empirical PCA Estimation From Data Set
 
-####Component Analysis
-
 ###Sequence Label Learning Algorithms
 ####Hidden Markov Models
  * HMM State Transition/Emission Parameter Estimation
