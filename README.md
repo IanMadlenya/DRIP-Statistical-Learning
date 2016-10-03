@@ -11,6 +11,7 @@ DRIP Statistical Learning is composed of the following main libraries:
  * VC and Capacity Measure Library
  * Covering Numbers Library
  * Alternate Statistical Learning Library
+ * Problem Space and Algorithms Families Library
 
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
