@@ -10,6 +10,7 @@ DRIP Statistical Learning is composed of the following main libraries:
  * Empirical Risk Minimization Library
  * VC and Capacity Measure Library
  * Covering Numbers Library
+ * Alternate Statistical Learning Library
 
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
@@ -184,6 +185,28 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Custom Applications of the Kernel Machines Entropy Numbers
  * Extensions to the Operator-Theoretic Viewpoint for Covering Numbers
 
+###Alternate Statistical Learning Approaches
+####Minimum Description Length Approach
+ * Coding Approaches
+ * MDL Analyses
+
+####Bayesian Methods
+ * Bayesian and Frequentist Approaches
+ * Bayesian Approaches
+
+####Knowledge Based Bounds
+ * Places to Incorporate Bounds
+ * Prior Knowledge into the Function Space
+
+####Approximation Error and Bayes' Consistency
+ * Nested Function Spaces
+ * Regularization
+ * Achieving Zero Approximation Error
+ * Rate of Convergence
+
+####No Free Lunch Theorem
+ * Algorithmic Consistency
+ * NFT Formal Statements
 
 ##Contact
 
