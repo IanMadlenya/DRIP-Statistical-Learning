@@ -9,6 +9,7 @@ DRIP Statistical Learning is composed of the following main libraries:
  * Statistical Learning Theory Framework Library
  * Empirical Risk Minimization Library
  * VC and Capacity Measure Library
+ * Covering Numbers Library
 
 For Installation, Documentation and Samples, and the associated supporting Numerical Libraries please check out [DRIP] (https://github.com/lakshmiDRIP/DRIP).
 
@@ -118,6 +119,71 @@ For Installation, Documentation and Samples, and the associated supporting Numer
  * Sauer Lemma ERM Bounds
  * VC Index
  * VC Classifier Framework
+
+###Capacity/Complexity Estimation Using Covering Numbers
+####Covering and Entropy Numbers
+ * Nomenclature- Normed Spaces
+ * Covering, Entropy, and Dyadic Numbers
+ * Background and Overview of Basic Results
+
+####Covering Numbers for Real-Valued Function Classes
+ * Functions of Bounded Variation
+ * Functions of Bounded Variation - Upper Bound
+ * Functions of Bounded Variation - Lower Bound
+ * General Function Classes
+ * General Function Class Bounds
+ * General Function Class Bounds - Lemmas
+ * General Function Class - Upper Bounds
+ * General Function Class - Lower Bounds
+
+####Operator Theory Methods for Entropy Numbers
+ * Generalization Bounds via Uniform Convergence
+ * Basic Uniform Convergence Bounds
+ * Loss Function Induced Classes
+ * Standard Form of Uniform Convergence
+
+####Kernel Machines
+ * SVM Capacity Control
+ * Nonlinear Kernels
+ * Generalization Performance of Regularization Networks
+ * Covering Number Determination Steps
+ * Challenges Presenting Master Generalization Error
+
+####Entropy Number for Kernel Machines
+ * Mercer Kernels
+ * Equivalent Kernels
+ * Mapping Phi into L2
+ * Corrigenda to the Mercer Conditions
+ * L2 Unit Ball -> Epsilon Mapping Scaling Operator
+ * Unit Bounding Operator Entropy Numbers
+ * The SVM Operator
+ * Maurey's Theorem
+ * Bounds for SV Classes
+ * Asymptotic Rates of Decay for the Entropy Numbers
+
+####Discrete Spectra of Convolution Operators
+ * Kernels with Compact/Non-compact Support
+ * The Kernel Operator Eigenvalues
+ * Choosing Nu
+ * Extensions to d-dimensions
+
+####Covering Numbers for Given Decay Rates
+ * Asymptotic/Non-asymptotic Decay of Covering Numbers
+ * Polynomial Eigenvalue Decay
+ * Summation and Integration of Non-decreasing Functions
+ * Exponential Polynomial Decay
+
+####Kernels for High-Dimensional Data
+ * Kernel Fourier Transforms
+ * Degenerate Kernel Bounds
+ * Covering Numbers for Degenerate Systems
+ * Bounds for Kernels in R^d
+ * Impact of the Fourier Transform Decay on the Entropy Numbers
+
+####Regularization Networks Entropy Numbers Determination - Practice
+ * Custom Applications of the Kernel Machines Entropy Numbers
+ * Extensions to the Operator-Theoretic Viewpoint for Covering Numbers
+
 
 ##Contact
 
