@@ -1,10 +1,11 @@
 #DRIP Statistical Learning
 
-**v2.34**  *2 October 2016*
+**v2.62**  *25 February 2017*
 
 DRIP Statistical Learning is a collection of Java libraries for Machine Learning and Statistical Evaluation.
 
 DRIP Statistical Learning is composed of the following main libraries:
+
  * Probabilistic Sequence Measure Concentration Bounds Library
  * Statistical Learning Theory Framework Library
  * Empirical Risk Minimization Library
