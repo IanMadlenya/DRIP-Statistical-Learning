@@ -1,6 +1,6 @@
 # DRIP Statistical Learning
 
-**v2.67**  *22 March 2017*
+**v2.77**  *2 May 2017*
 
 DRIP Statistical Learning is a collection of Java libraries for Machine Learning and Statistical Evaluation.
 
